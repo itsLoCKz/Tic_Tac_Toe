@@ -29,16 +29,18 @@ Follow these steps to get the Tic Tac Toe game up and running on your machine:
    ```
 
 3. **Run the Game
+   
    **a) (Option 1 - via Python)
    ```bash
    python tic_tac_toe.py
    ```
    If you don't have Python installed, you can download it [here](https://www.python.org/downloads/).
+   
    **b) Run the Game (Option 2 - via Executable)
    ```bash
    Double-click on the `tic_tac_toe.exe` file.
    ```
-4. **Play and Enjoy:**
+5. **Play and Enjoy:**
    Follow the on-screen instructions to play the game with your friend. Have fun!
 
 ## Customization
