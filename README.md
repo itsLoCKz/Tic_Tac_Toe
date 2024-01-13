@@ -2,15 +2,13 @@
 
 ## Overview
 
-Welcome to the Tic Tac Toe game implemented in Python! This console-based application provides a classic and entertaining experience for players of all skill levels. Enjoy a friendly match with a friend on the same computer and relive the timeless joy of playing Tic Tac Toe together.
+Welcome to the Tic Tac Toe game implemented in Python! This GUI-based application provides a classic and entertaining experience for players of all skill levels. Enjoy a friendly match with a friend on the same computer and relive the timeless joy of playing Tic Tac Toe together.
 
 ## Features
 
-- **User-Friendly Interface:** The game is designed with a simple and intuitive console interface for a hassle-free gaming experience.
+- **User-Friendly Interface:** The game is designed with a simple and intuitive graphical interface using Tkinter for a hassle-free gaming experience.
 
 - **Two-Player Mode:** Challenge a friend and engage in a classic battle of Xs and Os on a single computer. Take turns making your moves and compete for victory.
-
-- **Customizable Settings:** Personalize your gaming experience by setting custom names for Player X and Player O. Make the game uniquely yours!
 
 - **Winning Logic:** The game employs a robust algorithm to detect winning moves and declare the victor accurately.
 
