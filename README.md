@@ -34,7 +34,7 @@ Follow these steps to get the Tic Tac Toe game up and running on your machine:
    ```bash
    python tic_tac_toe.py
    ```
-   If you don't have Python installed, you can download it [here](https://www.python.org/downloads/).
+   <sub>If you don't have Python installed, you can download it [here](https://www.python.org/downloads/).</sub>
 
    **b) (Option 2 - via Executable)**
    ```bash
