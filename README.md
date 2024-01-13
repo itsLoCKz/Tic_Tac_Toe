@@ -20,20 +20,27 @@ Follow these steps to get the Tic Tac Toe game up and running on your machine:
 
 1. **Clone the Repository:**
    ```bash
-   git clone https://github.com/your-username/tic-tac-toe-python.git
+   git clone https://github.com/itsLoCKz/Tic_Tac_Toe.git
    ```
 
 2. **Navigate to the Project Directory:**
    ```bash
-   cd tic-tac-toe-python
+   cd Tic_Tac_Toe
    ```
 
-3. **Run the Game:**
+3. **Run the Game**
+
+   **a) (Option 1 - via Python)**
    ```bash
    python tic_tac_toe.py
    ```
+   <sub>If you don't have Python installed, you can download it [here](https://www.python.org/downloads/).</sub>
 
-4. **Play and Enjoy:**
+   **b) (Option 2 - via Executable)**
+   ```bash
+   Double-click on the `tic_tac_toe.exe` file.
+   ```
+5. **Play and Enjoy:**
    Follow the on-screen instructions to play the game with your friend. Have fun!
 
 ## Customization
