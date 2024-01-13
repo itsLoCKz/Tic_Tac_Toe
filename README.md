@@ -18,32 +18,37 @@ Welcome to the Tic Tac Toe game implemented in Python! This console-based applic
 
 Follow these steps to get the Tic Tac Toe game up and running on your machine:
 
-```bash
-# Clone the Repository
-git clone https://github.com/itsLoCKz/Tic_Tac_Toe.git
+1. **Clone the Repository:**
+   ```bash
+   git clone https://github.com/itsLoCKz/Tic_Tac_Toe.git
+   ```
 
-# Navigate to the Project Directory
-cd Tic_Tac_Toe
+2. **Navigate to the Project Directory:**
+   ```bash
+   cd Tic_Tac_Toe
+   ```
 
-# Run the Game (Option 1 - via Python)
-python tic_tac_toe.py
-
+3. **Run the Game (Option 1 - via Python)
+   ```bash
+   python tic_tac_toe.py
+   ```
 # If you don't have Python installed, you can download it [here](https://www.python.org/downloads/).
-
 # Run the Game (Option 2 - via Executable)
-Double-click on the `tic_tac_toe.exe` file located in the `dist` directory.
+Double-click on the `tic_tac_toe.exe` file.
 
-# Note: If you encounter any issues or the game doesn't start, make sure to check for antivirus warnings or try running it as an administrator.
+4. **Play and Enjoy:**
+   Follow the on-screen instructions to play the game with your friend. Have fun!
 
-# Play and Enjoy
-Follow the on-screen instructions to play the game with your friend. Have fun!
-Customization
+## Customization
+
 Feel free to customize the game by adjusting player names or any other settings. Explore the codebase to understand how the game works, and make any desired modifications.
 
-Contributions
+## Contributions
+
 Contributions are welcome! If you find bugs, have feature requests, or want to contribute improvements, please open an issue or submit a pull request. Let's make this two-player Tic Tac Toe game even better together.
 
-License
-This project is licensed under the MIT License - feel free to use, modify, and distribute the code for your projects.
+## License
+
+This project is licensed under the [MIT License](LICENSE) - feel free to use, modify, and distribute the code for your projects.
 
 Happy gaming! May the best strategist win! 🎮✨
