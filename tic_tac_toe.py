@@ -2,13 +2,6 @@
 
 from tkinter import *
 import random
-import ctypes
-import platform
-
-def set_titlebar_color(window, color):
-    system = platform.system().lower()
-    if system == "windows" and ctypes.windll.user32:
-        ctypes.windll.user32.SetSysColors(1, (ctypes.c_int * 3)(15, color, color))
 
 def next_turn(row, column):
     
@@ -113,7 +106,6 @@ window = Tk()
 window.title("   Tic-Tac-Toe by Adam Szcześniak")
 window.configure(bg="#1a1625")
 window.tk_setPalette(background="#1a1625", foreground="white")
-set_titlebar_color(window, 0x1a1625)
 
 # Icon made by Pixel perfect from www.flaticon.com
 window.iconbitmap("tic-tac-toe.1024x1024.ico")
