@@ -1,0 +1,4 @@
+# .gitignore
+build/
+dist/
+tic_tac_toe.spec
